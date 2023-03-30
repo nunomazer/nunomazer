@@ -6,7 +6,7 @@
 - 🤔 You can send me DM at twitter [@nunomazer](https://twitter.com/nunomazer), if you  are looking for help with coding and mentoring
 - 💬 Ask me anything about software development career
 - 📫 How to reach me: 
-   - https://mazer.dev
+   - <a href="https://mazer.dev/en">Mazer.dev blog</a>
    - https://twitter.com/nunomazer
    - https://www.linkedin.com/in/ademirmazerjr/
    - https://www.youtube.com/c/AdemirMazerJr?sub_confirmation=1
