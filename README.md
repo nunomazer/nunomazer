@@ -10,7 +10,7 @@
    - [@nunomazer Twitter](https://twitter.com/nunomazer): personal twitter account, follow me there
    - [Ademir Mazer Junior Professional Profile on Linkedin](https://www.linkedin.com/in/ademirmazerjr/): my professional network, great content there, follow me
    - Youtube channels:
-      - [Mazer dev - Canal em Português]https://www.youtube.com/c/AdemirMazerJr?sub_confirmation=1
+      - [Mazer dev - Canal em Português](https://www.youtube.com/c/AdemirMazerJr?sub_confirmation=1)
 - 🧓 Pronouns: He/Him
 - 😄 Fun fact: I love to work using "chinelos"
 
