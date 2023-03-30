@@ -6,10 +6,11 @@
 - 🤔 You can send me DM at twitter [@nunomazer](https://twitter.com/nunomazer), if you  are looking for help with coding and mentoring
 - 💬 Ask me anything about software development career
 - 📫 How to reach me: 
-   - <a href="https://mazer.dev/en">Mazer.dev blog</a>
-   - https://twitter.com/nunomazer
-   - https://www.linkedin.com/in/ademirmazerjr/
-   - https://www.youtube.com/c/AdemirMazerJr?sub_confirmation=1
+   - [Mazer.dev Blog](https://mazer.dev/en): where I write about software development, teach PHP, Laravel and other stacks.
+   - [@nunomazer Twitter](https://twitter.com/nunomazer): personal twitter account, follow me there
+   - (Ademir Mazer Junior Professional Profile on Linkedin](https://www.linkedin.com/in/ademirmazerjr/): my professional network, great content there, follow me
+   - Youtube channels:
+      - [Mazer dev - Canal em Português]https://www.youtube.com/c/AdemirMazerJr?sub_confirmation=1
 - 🧓 Pronouns: He/Him
 - 😄 Fun fact: I love to work using "chinelos"
 
