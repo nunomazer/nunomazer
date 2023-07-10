@@ -1,7 +1,7 @@
 ### MAZER.DEV 🖥️
 
 - 🔭 I’m currently working on PHP, Laravel, NodeJS, TypeScript and SQL
-- 🌱 I’m currently learning NodeJS, TypeScript and Flutter
+- 🌱 I’m currently learning NodeJS, TypeScript and Flutter .. also some DevOps: Azure and AWS .. also going deeper on Software Architectures
 - 👯 I’m looking to collaborate on greate open source projects
 - 🤔 You can send me DM at twitter [@nunomazer](https://twitter.com/nunomazer), if you  are looking for help with coding and mentoring
 - 💬 Ask me anything about software development career
