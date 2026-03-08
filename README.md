@@ -1,6 +1,6 @@
 ### MAZER.DEV 🖥️
 
-- 🔭 I’m an experienced software engineering, working mainly with PHP, Laravel, FilamentPHP, NativePHP, SQL (Mysql, PostgreSql), ElasticSearch, Javascript, Jquery (YES), Svelte, NodeJS, TypeScript, AWS, Azure Devops, Grafana, Webservices (Rest and Soap), ... ...
+- 🔭 I’m an experienced software engineering, working mainly with PHP, Laravel, FilamentPHP, Livewire, NativePHP, SQL (Mysql, PostgreSql, Sqlite [YES]), ElasticSearch, Javascript, Jquery (YES), Svelte, NodeJS, TypeScript, AWS, Azure Devops, Grafana, Webservices (Rest and Soap), ... ...
 - 🌱 I’m currently learning (always learning something new)  .. also some DevOps / Cloud: Azure and AWS .. also going deeper on Software Architectures
 - 👯 I’m looking to collaborate on greate open source projects
 - 🤔 You can send me DM at twitter [@nunomazer](https://twitter.com/nunomazer) or [Linkedin Profile](https://www.linkedin.com/in/ademirmazerjr/), if you  are looking for help with coding and mentoring
